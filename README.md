@@ -41,17 +41,10 @@
 
 <p>Here you'll find a selection of my most relevant projects, including mini-applications, scripts, and academic assignments. Each project is documented with a brief description, technologies used, and key features. Perfect for showcasing practical skills to potential employers.</p>
 
-### 🧮 Calculadora en JavaFX
+### ➤🧮 Calculadora en JavaFX
 Aplicación de calculadora desarrollada en **Java** con **JavaFX** y el patrón **MVC**. 
- [![Ver en GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Dootez/Calculadora_JavaFX)
 
-<!--
-### 🚀 Project 1 – [Project Name]
-- **Description:** Short explanation of the project
-- **Technologies:** Java, Kotlin, Jetpack Compose etc.
-- **Link / Location:** `Project1/`
-- **Notes / Key Features:** UI, logic, API integration, etc.
--->
+ [![Ver en GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Dootez/Calculadora_JavaFX)
 
 ---
 
