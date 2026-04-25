@@ -40,7 +40,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,unity,visualstudio,vscode,aws,firebase,supabase,figma,notion,obsidian&perline=14" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,aws,firebase,supabase,obsidian&perline=14" />
   </a>
 </p>
 
